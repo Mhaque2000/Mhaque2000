@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Md Haque</h1>
-<h3 align="center">QA Automation Engineer | Python Enthusiast | Future ML Engineer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Mahamood%20Ul%20Haque&fontSize=40&fontAlignY=35&desc=QA%20Automation%20%7C%20Java%20%26%20Python%20Dev%20%7C%20Future%20ML%20Engineer&descAlignY=60&descAlign=62" />
+
+<h1 align="center">Hi 👋, I'm Mahamood Ul Haque</h1>
+<h3 align="center">QA Automation Engineer | Java & Python Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhaque2000&label=Profile%20views&color=0e75b6&style=flat" alt="mhaque2000" />
@@ -9,26 +11,37 @@
 
 ### 💻 About Me
 
-- 🔭 I’m currently working as a **QA Automation Engineer (JS + Playwright)**
-- 🌱 I’m learning **Python, ML, MERN Stack**, and **System Design**
+- 🔭 I’m currently working as a **QA Automation Engineer (Selenium, Cypress, Playwright, WebdriverIO)**
+- 🌱 Currently I’m learning **Core Java, Java Development (JDBC, Hibernate, Spring Boot)**  
+  & **DSA with Python**
 - 👨‍💻 I’m passionate about switching into **product-based companies**
-- 🧠 Exploring **ML, SaaS dev, and Full Stack Web Dev**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/md-haque-8066b61b6)**
+- 🧠 Exploring **Backend Dev, Full Stack, and ML Engineering**
+- 📫 Reach me on: **[LinkedIn](https://www.linkedin.com/in/mahamood-ul-haque-802687199/)**
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="left">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JDBC-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=microsoft&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-WebdriverIO-EF2D5E?logo=webdriverio&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 </p>
+
+---
+
+### 🧠 Currently Working On
+
+- Learning **Core Java, JDBC, Hibernate, Spring Boot**
+- Solving **DSA problems with Python**
+- Improving **QA Automation Frameworks**
+- Building a **portfolio of backend and automation projects**
 
 ---
 
@@ -41,11 +54,11 @@
 
 ---
 
-### 🧠 Currently Working On
+### 🏆 GitHub Trophy
 
-- Building a custom **Playwright/Cypress automation framework**
-- Learning **Machine Learning with Python**
-- Building a **full-stack SaaS project** using MERN/Next.js
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhaque2000&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
@@ -55,12 +68,19 @@
 - 🧪 `wdio-js-automation` – Automation with WebdriverIO
 - 🔍 `playwright_training` – E2E Testing with Playwright
 - 🧠 `DSA_python` – DSA practice in Python
-- ⚙️ [New] Full-Stack App (Next.js/Node.js)
+- ⚙️ [Upcoming] Java Backend Projects (Spring Boot APIs, CRUD apps)
 
 ---
 
 ### 📫 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/md-haque-8066b61b6"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:mhaque.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge
+  <a href="https://www.linkedin.com/in/mahamood-ul-haque-802687199/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:mhaque.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ “Keep learning. Keep building. The leap from QA to Developer is just one repo away.”
+</p>
