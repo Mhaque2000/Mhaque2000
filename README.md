@@ -76,7 +76,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/mahamood-ul-haque-802687199/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:mhaque.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:mahamoodulhaque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
