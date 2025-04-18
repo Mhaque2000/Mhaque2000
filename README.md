@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-JDBC-4479A1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=microsoft&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-WebdriverIO-EF2D5E?logo=webdriverio&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 </p>
 
