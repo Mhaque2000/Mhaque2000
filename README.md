@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JDBC-4479A1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=microsoft&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Cypress-2EAD33?logo=cypress&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 </p>
 
