@@ -62,16 +62,6 @@
 
 ---
 
-### 📌 Pinned Projects To Check Out
-
-> Pin these from your GitHub homepage once you're done:
-- 🧪 `wdio-js-automation` – Automation with WebdriverIO
-- 🔍 `playwright_training` – E2E Testing with Playwright
-- 🧠 `DSA_python` – DSA practice in Python
-- ⚙️ [Upcoming] Java Backend Projects (Spring Boot APIs, CRUD apps)
-
----
-
 ### 📫 Connect With Me
 
 <p>
