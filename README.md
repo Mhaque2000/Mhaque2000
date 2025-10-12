@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_github_id?v=4" width="150" alt="Mahamood Ul Haque" style="border-radius:50%">
+  <img src="[https://avatars.githubusercontent.com/u/your_github_id?v=4](https://avatars.githubusercontent.com/u/97552706?v=4)" width="150" alt="Mahamood Ul Haque" style="border-radius:50%">
   <h1>Hi 👋, I'm Mahamood Ul Haque</h1>
   <p>Quality Assurance Engineer | Java & JavaScript Automation Specialist</p>
 
