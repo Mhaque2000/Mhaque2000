@@ -1,76 +1,53 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Mahamood%20Ul%20Haque&fontSize=40&fontAlignY=35&desc=QA%20Automation%20%7C%20Java%20%26%20Python%20Dev%20%7C%20Future%20ML%20Engineer&descAlignY=60&descAlign=62" />
-
-<h1 align="center">Hi 👋, I'm Mahamood Ul Haque</h1>
-<h3 align="center">QA Automation Engineer | Java & Python Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhaque2000&label=Profile%20views&color=0e75b6&style=flat" alt="mhaque2000" />
-</p>
-
+# Hi 👋, I'm Mahamood Ul Haque
+Quality Assurance Engineer | Java & JavaScript Automation Specialist
 ---
+💻 About Me
 
-### 💻 About Me
+🔭 I’m currently working as a Quality Assurance Engineer at LTIMindtree (Sep 2023 - Present)
+🌱 I’m enhancing my expertise in Java, JavaScript, and automation frameworks
+👨‍💻 I’m passionate about delivering high-quality software through robust testing
+📫 Reach me on: LinkedIn | Email
 
-- 🔭 I’m currently working as a **QA Automation Engineer (Selenium, Cypress, Playwright, WebdriverIO)**
-- 🌱 Currently I’m learning **Core Java, Java Development (JDBC, Hibernate, Spring Boot)**  
-  & **DSA with Python**
-- 👨‍💻 I’m passionate about switching into **product-based companies**
-- 🧠 Exploring **Backend Dev, Full Stack, and ML Engineering**
-- 📫 Reach me on: **[LinkedIn](https://www.linkedin.com/in/mahamood-ul-haque-802687199/)**
 
+⚙️ Tech Stack
 ---
+🧠 Currently Working On
 
-### ⚙️ Tech Stack
+Improving QA automation frameworks with Selenium, Cypress, and BDD Cucumber
+Building automation scripts for web applications using Java and JavaScript
+Exploring API and database testing to ensure robust software quality
+Developing a portfolio of QA projects to showcase testing expertise
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JDBC-4479A1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Cypress-2EAD33?logo=cypress&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-</p>
 
+🛠️ Professional Experience
+Quality Assurance EngineerLTIMindtree Ltd, Bangalore, Karnataka | Sep 2023 - PresentClient: Mercer
+
+Analyzed functional requirements and created 100+ detailed test cases for web applications.
+Built and maintained automation frameworks using Selenium (Java) and Cypress (JavaScript).
+Performed API testing with Postman and validated database operations using MySQL queries.
+Conducted manual, functional, regression, and smoke testing in Agile sprint cycles.
+Managed defects using Jira, collaborating with developers to resolve 50+ issues.
+Executed and monitored Jenkins CI pipelines for test execution and result analysis.
+Performed deployment verification and regression testing during production releases.
+
+
+🎓 Education
+Bachelor of Technology in Mechanical EngineeringIndian Institute of Engineering Science and Technology, Shibpur | Aug 2018 - Jul 2022
+
+🏅 Certifications
+
+Java for Beginners | Udemy | Oct 2025
+ES6 JavaScript | Udemy | Oct 2025
+Cypress – Modern Automation Testing | Udemy | Feb 2024
+IGNITE (SDET Batch 2) | LTIMindtree & Shoshin School | Dec 2023
+Complete SQL Bootcamp | Udemy | Jan 2022
+Complete Python Bootcamp | Udemy | Jan 2022
+
+
+📈 GitHub Stats
 ---
-
-### 🧠 Currently Working On
-
-- Learning **Core Java, JDBC, Hibernate, Spring Boot**
-- Solving **DSA problems with Python**
-- Improving **QA Automation Frameworks**
-- Building a **portfolio of backend and automation projects**
-
+🏆 GitHub Trophy
 ---
+📫 Connect With Me
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhaque2000&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhaque2000&theme=radical" width="45%" />
-</p>
-
----
-
-### 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhaque2000&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/mahamood-ul-haque-802687199/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:mahamoodulhaque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-</p>
-
----
-
-<p align="center">
-  ⚡ “Keep learning. Keep building. The leap from QA to Developer is just one repo away.”
-</p>
+⚡ “Quality is not an act, it is a habit. Keep testing, keep perfecting.”
