@@ -6,7 +6,11 @@ Quality Assurance Engineer | Java & JavaScript Automation Specialist
 🔭 I’m currently working as a Quality Assurance Engineer at LTIMindtree (Sep 2023 - Present)
 🌱 I’m enhancing my expertise in Java, JavaScript, and automation frameworks
 👨‍💻 I’m passionate about delivering high-quality software through robust testing
-📫 Reach me on: LinkedIn | Email
+📫 Reach me on: 
+<p>
+  <a href="https://www.linkedin.com/in/mahamood-ul-haque-802687199/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:mahamoodulhaque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
 
 
 ⚙️ Tech Stack
