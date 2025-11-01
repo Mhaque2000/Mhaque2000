@@ -69,7 +69,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-Udemy-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ES6 JavaScript-Udemy-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cypress-Udemy-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Playwright-Udemy-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IGNITE-LTIMindtree-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-Udemy-darkblue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-Udemy-darkgreen?style=for-the-badge" />
