@@ -50,7 +50,7 @@
 **Client:** Mercer
 
 - Created **100+ detailed test cases** based on functional requirements  
-- Built & maintained automation frameworks with **Selenium (Java) & Cypress (JS)**  
+- Built & maintained automation frameworks with **Selenium (Java) & Playwright (JS)**  
 - Performed **API testing** and validated **database operations**  
 - Conducted **manual, regression, and smoke testing** in Agile sprints  
 - Managed **50+ defects** using Jira  
