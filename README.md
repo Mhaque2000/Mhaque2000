@@ -28,18 +28,22 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-17202C?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20Assured-009E60?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
+
 ---
 
 ## 🧠 Currently Working On
 - Improving **QA automation frameworks** with Selenium, Playwright, & Cucumber  
-- Building **automation scripts** for web applications using Java & JavaScript  
+- Developing robust API tests using **REST Assured**  
+- Building automation scripts using **Java & JavaScript**  
 - Exploring **API & Database Testing**  
-- Developing a **portfolio of QA projects** to showcase expertise  
+- Developing a **portfolio of QA + API automation projects** to showcase expertise  
+
 
 ---
 
