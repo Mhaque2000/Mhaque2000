@@ -36,7 +36,7 @@
 ---
 
 ## 🧠 Currently Working On
-- Improving **QA automation frameworks** with Selenium, Cypress, & Cucumber  
+- Improving **QA automation frameworks** with Selenium, Playwright, & Cucumber  
 - Building **automation scripts** for web applications using Java & JavaScript  
 - Exploring **API & Database Testing**  
 - Developing a **portfolio of QA projects** to showcase expertise  
