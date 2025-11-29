@@ -27,7 +27,7 @@ SDET with **2+ years** of experience building automation frameworks across **UI,
 - Improved flaky test reliability from **60% → 85%**
 - Built scalable automation using **Playwright, Selenium & REST Assured**
 - Strong in **test architecture, debugging & continuous quality**
-- Targeting **remote-friendly, product-based SDET roles (8–12 LPA+)**
+- Open to **SDET roles in product and service-based companies (8–12 LPA+)**
 
 ---
 
