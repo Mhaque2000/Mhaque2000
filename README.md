@@ -1,4 +1,8 @@
+# <div align="center">
+
 # 👋 Hi, I'm Mahamood Ul Haque
+
+</div>
 
 <div align="center">
   <h2>SDET | Automation Engineer | Playwright • Selenium • API • CI/CD</h2>
