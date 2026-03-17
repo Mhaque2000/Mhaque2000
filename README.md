@@ -67,4 +67,19 @@ Software Engineer with **2+ years of experience** in building **automation syste
 
 ### **Scalable Backend + Automation System**
 
-* Sprin
+* Spring Boot REST APIs (User/Auth modules)
+* Secure authentication (JWT-based)
+* Integration with MySQL database
+* API + UI automation validation layer
+* CI/CD with GitHub Actions + Docker
+
+**Focus:** Backend development + system reliability + real-world scalability
+
+---
+
+## 🎯 Career Focus
+
+* Backend Developer (Java + Spring Boot)
+* SDET (Backend-heavy / API-focused roles)
+
+---
