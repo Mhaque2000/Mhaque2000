@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <h2>SDET | Automation Engineer | Playwright • Selenium • API • CI/CD</h2>
-  <p><strong>Building scalable, reliable automation frameworks that improve quality at speed.</strong></p>
+  <h2>Software Engineer | Backend (Java + Spring Boot) | SDET</h2>
+  <p><strong>Building scalable backend systems and high-quality automation frameworks.</strong></p>
 
   <a href="https://www.linkedin.com/in/mahamood-ul-haque-802687199/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
@@ -20,25 +20,29 @@
 
 ## 🚀 About Me
 
-SDET with **2+ years** of experience building automation frameworks across **UI, API, and CI/CD**.
+Software Engineer with **2+ years of experience** in building **automation systems and backend-driven solutions**.
 
 **Key Highlights**
-- Boosted regression efficiency by **40%**
-- Improved flaky test reliability from **60% → 85%**
-- Built scalable automation using **Playwright, Selenium & REST Assured**
-- Strong in **test architecture, debugging & continuous quality**
-- Open to **SDET roles in product and service-based companies (8–12 LPA+)**
+
+* Improved regression efficiency by **40%** through scalable automation
+* Increased test reliability from **60% → 85%**
+* Hands-on experience with **REST APIs, backend validations & database testing**
+* Building backend applications using **Java & Spring Boot**
+* Strong in **problem-solving, debugging & system-level thinking**
+
+👉 Currently transitioning into **Backend Development roles (Java + Spring Boot)**
 
 ---
 
 ## 🧠 Core Expertise
 
-- Automation Framework Architecture (POM, Hybrid, Thread-safe)  
-- UI Automation: **Playwright + Selenium**  
-- API Automation: **REST Assured, Playwright API**  
-- CI/CD Pipelines: **Jenkins, GitHub Actions**  
-- Dockerized Test Execution & Parallel Execution  
-- Agile QA Strategy, RCA & Defect Lifecycle  
+* Backend Development: **Java, Spring Boot (learning + building)**
+* REST API Design & Testing
+* Automation Framework Architecture (POM, Hybrid)
+* UI Automation: **Playwright + Selenium**
+* API Automation: **REST Assured**
+* Database Testing: **MySQL**
+* CI/CD: **Jenkins, GitHub Actions**
 
 ---
 
@@ -46,15 +50,14 @@ SDET with **2+ years** of experience building automation frameworks across **UI,
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20Assured-0081CB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
@@ -62,10 +65,6 @@ SDET with **2+ years** of experience building automation frameworks across **UI,
 
 ## 🧪 Currently Building
 
-### **Ultimate SDET Hybrid Framework**
-- Playwright + Selenium + API Automation  
-- Docker + GitHub Actions CI  
-- Advanced reporting (screenshots, logs)  
-- Parallel execution with environment control  
+### **Scalable Backend + Automation System**
 
-**Focus:** scalability, backend validations
+* Sprin
