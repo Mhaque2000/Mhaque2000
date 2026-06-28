@@ -2,84 +2,158 @@
 
 # 👋 Hi, I'm Mahamood Ul Haque
 
-</div>
+### AI Engineer in Progress | Python Developer | QA Automation Engineer
 
-<div align="center">
-  <h2>Software Engineer | Backend (Java + Spring Boot) | SDET</h2>
-  <p><strong>Building scalable backend systems and high-quality automation frameworks.</strong></p>
+Building practical AI applications using Machine Learning, LLMs, and Python.
 
-  <a href="https://www.linkedin.com/in/mahamood-ul-haque-802687199/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:mahamoodulhaque@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</div>
+<p>
 
----
+<a href="https://www.linkedin.com/in/mahamood-ul-haque-802687199/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-## 🚀 About Me
+<a href="mailto:mahamoodulhaque@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-Software Engineer with **2+ years of experience** in building **automation systems and backend-driven solutions**.
-
-**Key Highlights**
-
-* Improved regression efficiency by **40%** through scalable automation
-* Increased test reliability from **60% → 85%**
-* Hands-on experience with **REST APIs, backend validations & database testing**
-* Building backend applications using **Java & Spring Boot**
-* Strong in **problem-solving, debugging & system-level thinking**
-
-👉 Currently transitioning into **Backend Development roles (Java + Spring Boot)**
-
----
-
-## 🧠 Core Expertise
-
-* Backend Development: **Java, Spring Boot (learning + building)**
-* REST API Design & Testing
-* Automation Framework Architecture (POM, Hybrid)
-* UI Automation: **Playwright + Selenium**
-* API Automation: **REST Assured**
-* Database Testing: **MySQL**
-* CI/CD: **Jenkins, GitHub Actions**
-
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20Assured-0081CB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-## 🧪 Currently Building
+# 🚀 About Me
 
-### **Scalable Backend + Automation System**
+I'm a Software Engineer with **2.5+ years of experience** in QA Automation, currently transitioning into **AI Engineering**.
 
-* Spring Boot REST APIs (User/Auth modules)
-* Secure authentication (JWT-based)
-* Integration with MySQL database
-* API + UI automation validation layer
-* CI/CD with GitHub Actions + Docker
+My goal is to build intelligent systems that combine Machine Learning, Large Language Models, and backend engineering to solve real-world problems.
 
-**Focus:** Backend development + system reliability + real-world scalability
+Currently learning:
+
+- Machine Learning
+- Deep Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- MLOps
+
+I enjoy building projects that move beyond tutorials and solve practical problems.
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+- Python
+- Java
+- SQL
+
+### AI & Machine Learning
+
+- NumPy
+- Pandas
+- Scikit-learn (Learning)
+- TensorFlow (Learning)
+- PyTorch (Learning)
+- OpenAI API
+- Ollama
+- LangChain (Learning)
+
+### Backend
+
+- FastAPI
+- REST APIs
+
+### Automation
+
+- Selenium
+- Playwright
+- Pytest
+- REST Assured
+
+### Databases
+
+- MySQL
+
+### DevOps
+
+- Git
+- GitHub Actions
+- Docker
 
 ---
 
-## 🎯 Career Focus
+# 🚀 Current Projects
 
-* Backend Developer (Java + Spring Boot)
-* SDET (Backend-heavy / API-focused roles)
+### 🤖 AI Article Summarizer
+
+- Extracts clean article content from websites
+- Summarizes using local LLMs (Ollama)
+- Python
+- Trafilatura
+- OpenAI Compatible API
 
 ---
+
+### 📄 RAG Question Answering System (Coming Soon)
+
+- PDF ingestion
+- Vector Database
+- Semantic Search
+- Local LLM
+- LangChain
+
+---
+
+### 🤖 AI Chatbot (Coming Soon)
+
+- Conversational assistant
+- Memory
+- Retrieval
+- Function Calling
+
+---
+
+### 📊 Machine Learning Projects
+
+- House Price Prediction
+- Customer Churn Prediction
+- Recommendation System
+- Classification Models
+
+---
+
+# 📚 Currently Learning
+
+- Machine Learning Specialization — Andrew Ng
+- Mathematics for Machine Learning
+- Deep Learning
+- LLM Engineering
+- RAG
+- AI Agents
+
+---
+
+# 🎯 Career Goal
+
+Seeking opportunities as
+
+- AI Engineer
+- Machine Learning Engineer
+- Applied AI Engineer
+- Python AI Developer
+
+---
+
+# 📈 GitHub Goals (2026)
+
+- 20+ AI Projects
+- End-to-End ML Projects
+- Production-ready RAG Applications
+- Open Source Contributions
+- Strong AI Portfolio
+
+---
+
+⭐ I believe the best way to learn AI is by building real-world projects consistently.
