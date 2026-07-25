@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Mahamood Ul Haque
 
-### AI Engineer in Progress | Python Developer | QA Automation Engineer
+### Python SDET | QA Automation Engineer | Python Developer
 
-Building practical AI applications using Machine Learning, LLMs, and Python.
+Building reliable test automation frameworks and scalable testing solutions using Python.
 
 <p>
 
@@ -24,20 +24,23 @@ Building practical AI applications using Machine Learning, LLMs, and Python.
 
 # 🚀 About Me
 
-I'm a Software Engineer with **2.5+ years of experience** in QA Automation, currently transitioning into **AI Engineering**.
+I'm a QA Automation Engineer with **2.5+ years of experience** specializing in Python-based test automation.
 
-My goal is to build intelligent systems that combine Machine Learning, Large Language Models, and backend engineering to solve real-world problems.
+My current focus is becoming a **Remote Python SDET**, building scalable automation frameworks, API testing solutions, CI/CD pipelines, and Python tools that improve software quality.
 
-Currently learning:
+I enjoy solving complex automation challenges and writing clean, maintainable Python code.
 
-- Machine Learning
-- Deep Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- MLOps
+Currently improving my skills in:
 
-I enjoy building projects that move beyond tutorials and solve practical problems.
+* Advanced Python
+* Test Automation Framework Design
+* API Automation
+* Playwright
+* Selenium
+* CI/CD
+* Docker
+* SQL
+* Backend Development with FastAPI
 
 ---
 
@@ -45,115 +48,118 @@ I enjoy building projects that move beyond tutorials and solve practical problem
 
 ### Languages
 
-- Python
-- Java
-- SQL
+* Python
+* Java
+* SQL
 
-### AI & Machine Learning
+### Test Automation
 
-- NumPy
-- Pandas
-- Scikit-learn (Learning)
-- TensorFlow (Learning)
-- PyTorch (Learning)
-- OpenAI API
-- Ollama
-- LangChain (Learning)
+* Selenium
+* Playwright
+* Pytest
+* REST Assured
+* API Testing
 
 ### Backend
 
-- FastAPI
-- REST APIs
-
-### Automation
-
-- Selenium
-- Playwright
-- Pytest
-- REST Assured
+* FastAPI
+* REST APIs
 
 ### Databases
 
-- MySQL
+* MySQL
 
-### DevOps
+### DevOps & Tools
 
-- Git
-- GitHub Actions
-- Docker
+* Git
+* GitHub Actions
+* Docker
+* Linux
 
 ---
 
 # 🚀 Current Projects
 
-### 🤖 AI Article Summarizer
+### 🧪 Python Test Automation Framework
 
-- Extracts clean article content from websites
-- Summarizes using local LLMs (Ollama)
-- Python
-- Trafilatura
-- OpenAI Compatible API
-
----
-
-### 📄 RAG Question Answering System (Coming Soon)
-
-- PDF ingestion
-- Vector Database
-- Semantic Search
-- Local LLM
-- LangChain
+* Scalable Page Object Model
+* Pytest
+* HTML Reporting
+* Parallel Execution
+* Logging
+* Configuration Management
 
 ---
 
-### 🤖 AI Chatbot (Coming Soon)
+### 🌐 API Automation Framework
 
-- Conversational assistant
-- Memory
-- Retrieval
-- Function Calling
+* REST API Testing
+* Authentication
+* Schema Validation
+* Data-Driven Testing
+* Pytest Integration
 
 ---
 
-### 📊 Machine Learning Projects
+### 🎭 Playwright Automation Suite
 
-- House Price Prediction
-- Customer Churn Prediction
-- Recommendation System
-- Classification Models
+* Cross-browser Automation
+* Parallel Execution
+* Reporting
+* Screenshots & Videos
+* CI/CD Integration
+
+---
+
+### ⚙️ Python Automation Utilities
+
+* Log Parser
+* Test Data Generator
+* File Processing Tools
+* API Utilities
+* Automation Scripts
 
 ---
 
 # 📚 Currently Learning
 
-- Machine Learning Specialization — Andrew Ng
-- Mathematics for Machine Learning
-- Deep Learning
-- LLM Engineering
-- RAG
-- AI Agents
+* Advanced Python
+* Design Patterns for Test Automation
+* Playwright Advanced Features
+* FastAPI
+* Docker
+* GitHub Actions
+* System Design Basics
+* Backend Development
 
 ---
 
 # 🎯 Career Goal
 
-Seeking opportunities as
+Seeking remote opportunities as:
 
-- AI Engineer
-- Machine Learning Engineer
-- Applied AI Engineer
-- Python AI Developer
+* Python SDET
+* Software Development Engineer in Test (SDET)
+* QA Automation Engineer
+* Python Automation Engineer
+
+Long-term goal:
+
+* Work remotely for global product companies
+* Build high-quality automation frameworks
+* Grow into a Senior/Lead Python SDET
 
 ---
 
 # 📈 GitHub Goals (2026)
 
-- 20+ AI Projects
-- End-to-End ML Projects
-- Production-ready RAG Applications
-- Open Source Contributions
-- Strong AI Portfolio
+* 20+ Python Automation Projects
+* Enterprise-grade Automation Frameworks
+* API Testing Projects
+* Playwright & Selenium Portfolio
+* Python Utilities
+* Open Source Contributions
 
 ---
 
-⭐ I believe the best way to learn AI is by building real-world projects consistently.
+⭐ I believe the best automation engineers don't just test software—they build tools that make quality faster, smarter, and more reliable.
